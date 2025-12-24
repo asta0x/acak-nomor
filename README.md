@@ -29,7 +29,7 @@ Tool berbasis Python yang berfungsi untuk mengacak nomor WhatsApp berdasarkan ko
 > Semua penggunaan kembali ke tanggung jawab user.
 
 ## 📸 Screenshots
-![alt text](?raw=true)
+![alt text](https://github.com/asta0x/acak-nomor/blob/main/images/main_menu.jpg?raw=true)
 
 ## 🚀 Instalasi
 ```bash
@@ -49,9 +49,9 @@ pip install requests phonenumbers colorama
 
 pkg install git
 
-git clone https://github.com/asta0x/iptrace.git
+git clone https://github.com/asta0x/acak-nomor.git
 
-cd iptrace
+cd acak-nomor
 
 pip install requests colorama
 
