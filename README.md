@@ -28,3 +28,29 @@ Tool berbasis Python yang berfungsi untuk mengacak nomor WhatsApp berdasarkan ko
 
 > Semua penggunaan kembali ke tanggung jawab user.
 
+## 📸 Screenshots
+![alt text](https://github.com/asta0x/iptrace/blob/main/images/main_menu.jpg?raw=true)
+
+## 🚀 Instalasi
+```bash
+pkg update
+
+pkg upgrade
+
+pkg install python
+
+pkg install python-cryptography -y
+
+pkg install clang make openssl libffi
+
+pip install pycryptodome
+
+pkg install git
+
+git clone https://github.com/asta0x/iptrace.git
+
+cd iptrace
+
+pip install requests colorama
+
+python main.py
